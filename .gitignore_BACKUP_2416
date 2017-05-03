@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+# this file will be ignored from git control
+
+*.dat     # data file
+=======
+__pycache__
+>>>>>>> 75fb77ea58dfecb4e4e856281434ebd9eea08257
